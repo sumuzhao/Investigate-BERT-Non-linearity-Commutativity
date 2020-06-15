@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cpuvm01.ethz.ch" id="1436dc04-fc69-4a23-a444-29a0f842662e" port="22" customName="suzhao" nameFormat="CUSTOM" username="suzhao" />
+      <sshConfig authType="PASSWORD" host="cpuvm01.ethz.ch" id="613d4d34-a17d-42d3-a87f-6b8049c6fa72" port="22" customName="suzhao" nameFormat="CUSTOM" username="suzhao" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="787767d6-b245-4491-b461-712d350001ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="41222df9-3167-4e37-813b-92620e3b1eef" />
+  <component name="ProjectId" id="1V77CqXtzkXh1qSqbDkLTFbZP1Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loss-landscape" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layer-commutativity" />
+      <recent name="$PROJECT_DIR$/non-linearity" />
+      <recent name="$PROJECT_DIR$/run_probing" />
+      <recent name="$PROJECT_DIR$/no_estimator" />
+      <recent name="$PROJECT_DIR$/run_approximator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mlp_train">
+    <configuration name="convnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bert-refine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cifar10/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cifar10/models/convnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_shuffling_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bert-refine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/layer-commutativity/generate_shuffling_order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bert-refine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/models/mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bert-refine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comparison" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparison/mlp_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bert-refine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mlp_train" />
+        <item itemvalue="Python.mlp (1)" />
+        <item itemvalue="Python.convnet" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.generate_shuffling_order" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787767d6-b245-4491-b461-712d350001ed" name="Default Changelist" comment="" />
+      <created>1576592154207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576592154207</updated>
+      <workItem from="1576592158864" duration="25227000" />
+      <workItem from="1577867496239" duration="16590000" />
+      <workItem from="1578130927570" duration="119898000" />
+      <workItem from="1581494773115" duration="230871000" />
+      <workItem from="1584259368254" duration="93305000" />
+      <workItem from="1584911700797" duration="206000" />
+      <workItem from="1584911931287" duration="49820000" />
+      <workItem from="1585295488306" duration="5362000" />
+      <workItem from="1585312238186" duration="83602000" />
+      <workItem from="1585660242754" duration="43897000" />
+      <workItem from="1585992524780" duration="72217000" />
+      <workItem from="1586939228156" duration="86903000" />
+      <workItem from="1587539806532" duration="79344000" />
+      <workItem from="1588941592108" duration="59761000" />
+      <workItem from="1589571879249" duration="62041000" />
+      <workItem from="1590754836204" duration="55044000" />
+      <workItem from="1591600680147" duration="5507000" />
+      <workItem from="1592127684821" duration="13879000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1576786923247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576786923247</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1578053017336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578053017336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1578053138625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578053138625</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1578053360283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578053360283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1578406186248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578406186248</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1579011485751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579011485751</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1579507748642</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579507748642</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1579592492768</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579592492768</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1582202517738</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582202517738</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1582640653456</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582640653456</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1583238239139</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583238239139</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1583849636303</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583849636303</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1584907623616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584907623616</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refine codes for clear structures">
+      <created>1585658516073</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585658516074</updated>
+    </task>
+    <task id="LOCAL-00015" summary="hovorod supporting multi-gpu">
+      <created>1585658565225</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585658565226</updated>
+    </task>
+    <task id="LOCAL-00016" summary="hovorod supporting multi-gpu">
+      <created>1585658970188</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585658970188</updated>
+    </task>
+    <task id="LOCAL-00017" summary="hovorod supporting multi-gpu">
+      <created>1585659187774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585659187774</updated>
+    </task>
+    <task id="LOCAL-00018" summary="changes">
+      <created>1585661127998</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585661127998</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add prediction mode">
+      <created>1585831704396</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585831704396</updated>
+    </task>
+    <task id="LOCAL-00020" summary="take care of assigning ones to gamma values of layer norm">
+      <created>1586000245552</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1586000245553</updated>
+    </task>
+    <task id="LOCAL-00021" summary="make the freeze part choice more concise">
+      <created>1586000280061</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1586000280061</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add approximator_dim">
+      <created>1586006129084</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1586006129084</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add track">
+      <created>1586606210169</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1586606210169</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add track for jupyter">
+      <created>1586634442551</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1586634442551</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add some comments">
+      <created>1586848686354</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1586848686354</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1587239287517</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1587239287517</updated>
+    </task>
+    <task id="LOCAL-00027" summary="new directory">
+      <created>1587285624423</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1587285624423</updated>
+    </task>
+    <task id="LOCAL-00028" summary="create pretrain using placeholder">
+      <created>1587303208157</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1587303208157</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update">
+      <created>1588941702710</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588941702710</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1589382370255</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1589382370255</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update">
+      <created>1589533675522</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1589533675522</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update">
+      <created>1589632424401</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1589632424401</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update">
+      <created>1590173985450</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1590173985450</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <created>1590865138191</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1590865138191</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <created>1590916866896</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1590916866896</updated>
+    </task>
+    <task id="LOCAL-00036" summary="refine MLP CNN">
+      <created>1591605507124</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1591605507124</updated>
+    </task>
+    <task id="LOCAL-00037" summary="refine MLP CNN">
+      <created>1592128822755</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1592128822755</updated>
+    </task>
+    <task id="LOCAL-00038" summary="refine MLP CNN">
+      <created>1592136751995</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1592136751995</updated>
+    </task>
+    <task id="LOCAL-00039" summary="readme">
+      <created>1592136827792</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1592136827792</updated>
+    </task>
+    <task id="LOCAL-00040" summary="readme">
+      <created>1592137914317</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1592137914317</updated>
+    </task>
+    <task id="LOCAL-00041" summary="readme">
+      <created>1592138441728</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1592138441728</updated>
+    </task>
+    <task id="LOCAL-00042" summary="readme">
+      <created>1592138546302</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1592138546302</updated>
+    </task>
+    <task id="LOCAL-00043" summary="readme">
+      <created>1592140444681</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1592140444681</updated>
+    </task>
+    <task id="LOCAL-00044" summary="readme">
+      <created>1592211899470</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211899470</updated>
+    </task>
+    <task id="LOCAL-00045" summary="readme">
+      <created>1592211940333</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211940333</updated>
+    </task>
+    <task id="LOCAL-00046" summary="readme">
+      <created>1592212070929</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1592212070929</updated>
+    </task>
+    <task id="LOCAL-00047" summary="readme">
+      <created>1592212121951</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1592212121951</updated>
+    </task>
+    <task id="LOCAL-00048" summary="readme">
+      <created>1592212145879</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1592212145879</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refine codes for clear structures" />
+    <MESSAGE value="hovorod supporting multi-gpu" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="Add prediction mode" />
+    <MESSAGE value="take care of assigning ones to gamma values of layer norm" />
+    <MESSAGE value="make the freeze part choice more concise" />
+    <MESSAGE value="add approximator_dim" />
+    <MESSAGE value="add track" />
+    <MESSAGE value="add track for jupyter" />
+    <MESSAGE value="add some comments" />
+    <MESSAGE value="new directory" />
+    <MESSAGE value="create pretrain using placeholder" />
+    <MESSAGE value="update" />
+    <MESSAGE value="refine MLP CNN" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Deployment" timestamp="1588936092399">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Deployment/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588936092399" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591602003855">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591602003855" />
+    <state x="532" y="99" width="912" height="906" key="CommitChangelistDialog2" timestamp="1592212145746">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="532" y="99" width="912" height="906" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1592212145746" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588763336097">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588763336097" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom" timestamp="1591622710870">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192119" />
+    <state width="1807" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591622710870" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center" timestamp="1591622710869">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192119" />
+    <state width="1807" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591622710869" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left" timestamp="1591622710869">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192119" />
+    <state width="1807" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591622710869" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right" timestamp="1591622710870">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192119" />
+    <state width="1807" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591622710870" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1591118718719">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192120" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591118718719" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1591118718719">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192120" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591118718719" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1591118718719">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192120" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591118718719" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1591118718719">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588941192120" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591118718719" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1587713473277">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1587713473277" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1592212146805">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1592212146805" />
+    <state x="511" y="157" width="954" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590944554518">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="511" y="157" width="954" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1590944554518" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1592138487671">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1588335504819" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1592138487671" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bert$test.coverage" NAME="test Coverage Results" MODIFIED="1585249592801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$test.coverage" NAME="test Coverage Results" MODIFIED="1590933909645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$generate_random_order.coverage" NAME="generate_random_order Coverage Results" MODIFIED="1590914335178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$plot_helper.coverage" NAME="plot_helper Coverage Results" MODIFIED="1587152074313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$run_pretrain.coverage" NAME="run_pretrain Coverage Results" MODIFIED="1587327315778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/no_estimator" />
+    <SUITE FILE_PATH="coverage/bert$plot.coverage" NAME="plot Coverage Results" MODIFIED="1584695246345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$mlp_mnist.coverage" NAME="mlp_mnist Coverage Results" MODIFIED="1589449443058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10" />
+    <SUITE FILE_PATH="coverage/bert_refine$resnet_la.coverage" NAME="resnet_la Coverage Results" MODIFIED="1589706635360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10/models" />
+    <SUITE FILE_PATH="coverage/bert_refine$mlp.coverage" NAME="mlp Coverage Results" MODIFIED="1590911271064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10/models" />
+    <SUITE FILE_PATH="coverage/bert_refine$convnet.coverage" NAME="convnet Coverage Results" MODIFIED="1590946640930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10/models" />
+    <SUITE FILE_PATH="coverage/bert$run_classifier.coverage" NAME="run_classifier Coverage Results" MODIFIED="1583572010808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bert_refine$run_multi_eval.coverage" NAME="run_multi_eval Coverage Results" MODIFIED="1587628224067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_approximator" />
+    <SUITE FILE_PATH="coverage/bert_refine$mlp__1_.coverage" NAME="mlp (1) Coverage Results" MODIFIED="1591603251779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison/models" />
+    <SUITE FILE_PATH="coverage/bert_refine$cnn_shuffle.coverage" NAME="cnn_shuffle Coverage Results" MODIFIED="1590914190311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar10" />
+  </component>
+</project>
