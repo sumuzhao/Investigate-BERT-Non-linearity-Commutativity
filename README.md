@@ -19,7 +19,7 @@ Code Structure:
 
 Main dependencies:
 - Python 3.7.5
-- Tensorflow 1.１4.0
+- Tensorflow 1.14.0
 - Pytorch 1.5.0
 
 Others refer to the requirements file. 
