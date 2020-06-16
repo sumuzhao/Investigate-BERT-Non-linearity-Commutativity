@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0797f168-6689-415d-bf1c-7fb2084f6bfa" name="suzhao" url="http://cpuvm01.ethz.ch">
+        <fileTransfer host="cpuvm01.ethz.ch" port="22" rootFolder="/home/suzhao" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
