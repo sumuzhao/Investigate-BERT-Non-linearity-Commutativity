@@ -7,7 +7,7 @@ Paper refers to [Of Non-Linearity and Commutativity in BERT](https://drive.googl
 ## Get started
 
 Code Structure:
-- *modeling*, **optimization**, **tokenization**. Define BERT structures, optimizer, tokenizer. 
+- **modeling**, **optimization**, **tokenization**. Define BERT structures, optimizer, tokenizer. 
 - **run_pretraining**, **run_classifier**. Pre-training and fine-tuning on GLUE tasks. 
 - **create_pretraining_data**. Create pre-processed data for pre-training (Unlabeled large corpus --> TFRecord files). 
 - **run_finetune_glue.sh**. Script for fine-tuning BERT on all GLUE tasks. 
@@ -41,7 +41,7 @@ Note that, it took around **8** days to pre-train the BERT-small on a single Nvi
 
 Converting the original unlabeded corpus to TFRecord files is both time- and resource- comsuming. 
 We recommend that you directly use the pre-trained weights. 
-But if you want to use your own text to pre-train BERT, you can use following commands: 
+But if you want to use your own text to pre-train BERT, you can use following commands. 
 
 To save your time, we provided our pre-trained weights of BERT-small. 
 [Download](https://drive.google.com/file/d/1Ehld3iwF9tJMmiFvTbciTO06SXMQO4vq/view?usp=sharing)
