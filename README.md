@@ -7,11 +7,11 @@ Paper refers to [Of Non-Linearity and Commutativity in BERT](https://drive.googl
 ## Get started
 
 Code Structure:
-- modeling*, optimization*, tokenization. Define BERT structures, optimizer, tokenizer. 
-- run_pretraining*, run_classifier. Pre-training and fine-tuning on GLUE tasks. 
-- create_pretraining_data. Create pre-processed data for pre-training (Unlabeled large corpus --> TFRecord files). 
-- run_finetune_glue.sh. Script for fine-tuning BERT on all GLUE tasks. 
-- data_utils. Data processor for GLUE fine-tuning. 
+- *modeling*, **optimization**, **tokenization**. Define BERT structures, optimizer, tokenizer. 
+- **run_pretraining**, **run_classifier**. Pre-training and fine-tuning on GLUE tasks. 
+- **create_pretraining_data**. Create pre-processed data for pre-training (Unlabeled large corpus --> TFRecord files). 
+- **run_finetune_glue.sh**. Script for fine-tuning BERT on all GLUE tasks. 
+- **data_utils**. Data processor for GLUE fine-tuning. 
 - **graph-mode**. Refactorize run_pre-training.py and run_classifier.py in graph mode instead of using Tensorflow Estimator API
 - [**non-linearity**](non-linearity/). Experiments including training linear/non-linear approximators, replacing, removing, freezing and extracting hidden embeddings. 
 - [**layer-commutativity**](layer-commutativity/). Experiments including swapping and shuffling
