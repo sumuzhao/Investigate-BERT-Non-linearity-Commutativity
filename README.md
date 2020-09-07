@@ -84,7 +84,6 @@ Multiple GPU cards, implemented using hovorod
 CUDA_VISIBLE_DEVICES="2,3" mpirun -np 2 \
     -bind-to none -map-by slot \
     -x NCCL_DEBUG=INFO -x LD_LIBRARY_PATH -x PATH \
-    -x HOROVOD_TIMELINE=/disco-computing/NLP_data/tmp/pretraining/BERT-small_mg_hvd_linear_attention/timeline.json \
     -mca pml ob1 -mca btl ^openib \
     python run_pretraining_hvd.py \
     --input_file=$TFRECORD_DIR/*.tfrecord \
