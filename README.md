@@ -2,7 +2,7 @@
 
 In this repository, we implemented some empirical experiments based on the [official BERT code](https://github.com/google-research/bert). 
 
-Paper refers to [Of Non-Linearity and Commutativity in BERT](https://drive.google.com/file/d/1ecEKvRzaSlW3lAEnItOaTqcGEobrbeFc/view?usp=sharing).
+Paper refers to [Of Non-Linearity and Commutativity in BERT](https://arxiv.org/abs/2101.04547).
 
 ## Get started
 
